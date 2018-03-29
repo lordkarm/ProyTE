@@ -30,6 +30,7 @@ namespace ProyTE.DATA
         public string Detalle { get; set; }
 
         public DateTime FechaAlquiler { get; set; }
+        //public
 
     }
 
